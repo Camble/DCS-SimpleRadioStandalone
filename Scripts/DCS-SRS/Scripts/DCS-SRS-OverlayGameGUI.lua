@@ -3,7 +3,7 @@
 -- Otherwise the Overlay will not work
 
 
-net.log("Loading - DCS-SRS Overlay GameGUI - Ciribob: 2.1.1.0 ")
+net.log("Loading - DCS-SRS Overlay GameGUI - Ciribob: 2.1.1.0 ")--
 
 local base = _G
 
